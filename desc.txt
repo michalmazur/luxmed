@@ -1,0 +1,3 @@
+Jeżeli Twoje dane kontaktowe rzeczywiście się zmieniły, możesz je zaktualizować używając linku "Dane i zmiana hasła" na zakładce "Rezerwacje". Możliwe, że w kolejnych wersjach rozszerzenia zostanie dodana możliwość jego tymczasowego wyłączenia.
+
+If you ever need to update your contact details while this extension is active you may do so in "Booking" > "Data and changing the password". In future versions of this extension I might add the option to temporarily disable it.

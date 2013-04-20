@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Auto-dismiss contact details update pop-up (luxmed.pl)"
+  },
+  "appDesc": {
+    "message": "Automatically dismisses the annoying pop-up that prompts you to update your contact details every time you log in."
+  }
+}	

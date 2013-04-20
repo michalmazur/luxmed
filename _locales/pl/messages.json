@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Automatyczne potwierdzanie danych kontaktowych na www.luxmed.pl"
+  },
+  "appDesc": {
+    "message": "To rozszerzenie automatycznie potwierdza dane kontaktowe w okienku, które wyskakuje po każdorazowym zalogowaniu się do Portalu Pacjenta LUX MED."
+  }
+}
