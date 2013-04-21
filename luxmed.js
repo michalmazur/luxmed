@@ -28,12 +28,12 @@
 			return;
 		}
 		
-		var confirmButton = $('form[name=acceptUserDataForm] .button:not(#AcceptCancel)');
-		if (confirmButton.length === 1) {
+		var confirmLink = $('form[name=acceptUserDataForm] a.arr_fw');
+		if (confirmLink.length === 1) {
 			$('.ui-dialog').hide();
 			$('.ui-widget-overlay').hide();
 			clearInterval(interval);
-			confirmButton.trigger('click');
+			confirmLink.trigger('click');
 		}
 		
 		dismissPopup.counter++;
