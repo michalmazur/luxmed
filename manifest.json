@@ -2,11 +2,11 @@
   "name": "__MSG_appName__",
   "description": "__MSG_appDesc__",
   "default_locale": "en",
-  "version": "0.0.0.1",
+  "version": "0.2",
   "manifest_version": 2,
   "content_scripts": [ {
       "matches": ["https://produkty.grupaluxmed.pl/PatientPortal/Users/User/AcceptUserData", 
-				  "https://e-rezerwacje.grupaluxmed.pl/PatientPortal/Users/User/AcceptUserData"],
+                  "https://e-rezerwacje.grupaluxmed.pl/PatientPortal/Users/User/AcceptUserData"],
       "js": ["luxmed.js"]
   } ]
 }
